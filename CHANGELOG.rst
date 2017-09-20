@@ -2,8 +2,8 @@
 Changelog for package coordination_oru_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2017-09-20)
+------------------
 * Merge pull request `#4 <https://github.com/FedericoPecora/coordination_oru_ros/issues/4>`_ from marc-hanheide/master
   added some more symlink magic
 * added some more symlink magic
